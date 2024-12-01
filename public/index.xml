@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gionatan Buono&#39;s Website</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Gionatan Buono&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 08 Aug 2023 13:23:32 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>https://example.org/blog/2023/first-blog-post/</link>
+      <pubDate>Tue, 08 Aug 2023 13:23:32 +0200</pubDate>
+      <guid>https://example.org/blog/2023/first-blog-post/</guid>
+      <description>Hello World! Welcome to my website</description>
+    </item>
+  </channel>
+</rss>
