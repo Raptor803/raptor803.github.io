@@ -4,9 +4,10 @@
     <title>My Resume on Gionatan Buono&#39;s Website</title>
     <link>https://example.org/about/</link>
     <description>Recent content in My Resume on Gionatan Buono&#39;s Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 16 Feb 2024 16:42:32 +0200</lastBuildDate><atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
